@@ -1,13 +1,13 @@
-# Home Assistant support for Tuya BLE devices
+# Home Assistant support for Tuya BLE devices - Emage Development
 
 ## Overview
 
 This integration supports Tuya devices connected via BLE.
-Code by Josh, and only use for Josh, please don't install this repo !
+Code by Josh Nguyen, and only use for Emage project, please don't install this repo !
 
 ## Installation
 
-Go away, don't install
+license required
 
 ## Usage
 
